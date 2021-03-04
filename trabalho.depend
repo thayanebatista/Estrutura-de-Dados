@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1538405549 source:c:\users\ra159049\desktop\trabalho\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	"LSE.h"
+	"LSEC.h"
+	"LSECND.h"
+
+1538403509 c:\users\ra159049\desktop\trabalho\lse.h
+	<iostream>
+
+1538403508 c:\users\ra159049\desktop\trabalho\lsec.h
+	<iostream>
+
+1538403503 c:\users\ra159049\desktop\trabalho\lsecn.h
+	<iostream>
+
+1538403503 c:\users\ra159049\desktop\trabalho\lsecnd.h
+	<iostream>
+
