@@ -1,5 +1,6 @@
 # Estrutura de Dados
- LSE, LDE, PILHA, FILA 
+    LSE, LDE, PILHA, FILA;
+    Com menu iterativo.
 
 # **INFOS**    
 #### Academico: _Thayane Batista RA159049_
